@@ -1,0 +1,17 @@
+D:\Projects for C#\Restaurant\RestaurantApplication\RestaurantApplication\bin\Debug\net6.0-windows\RestaurantApplication.exe
+D:\Projects for C#\Restaurant\RestaurantApplication\RestaurantApplication\bin\Debug\net6.0-windows\RestaurantApplication.deps.json
+D:\Projects for C#\Restaurant\RestaurantApplication\RestaurantApplication\bin\Debug\net6.0-windows\RestaurantApplication.runtimeconfig.json
+D:\Projects for C#\Restaurant\RestaurantApplication\RestaurantApplication\bin\Debug\net6.0-windows\RestaurantApplication.dll
+D:\Projects for C#\Restaurant\RestaurantApplication\RestaurantApplication\bin\Debug\net6.0-windows\RestaurantApplication.pdb
+D:\Projects for C#\Restaurant\RestaurantApplication\RestaurantApplication\obj\Debug\net6.0-windows\RestaurantApplication.RestaurantApplication.resources
+D:\Projects for C#\Restaurant\RestaurantApplication\RestaurantApplication\obj\Debug\net6.0-windows\RestaurantApplication.csproj.GenerateResource.cache
+D:\Projects for C#\Restaurant\RestaurantApplication\RestaurantApplication\obj\Debug\net6.0-windows\RestaurantApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects for C#\Restaurant\RestaurantApplication\RestaurantApplication\obj\Debug\net6.0-windows\RestaurantApplication.AssemblyInfoInputs.cache
+D:\Projects for C#\Restaurant\RestaurantApplication\RestaurantApplication\obj\Debug\net6.0-windows\RestaurantApplication.AssemblyInfo.cs
+D:\Projects for C#\Restaurant\RestaurantApplication\RestaurantApplication\obj\Debug\net6.0-windows\RestaurantApplication.csproj.CoreCompileInputs.cache
+D:\Projects for C#\Restaurant\RestaurantApplication\RestaurantApplication\obj\Debug\net6.0-windows\RestaurantApplication.dll
+D:\Projects for C#\Restaurant\RestaurantApplication\RestaurantApplication\obj\Debug\net6.0-windows\refint\RestaurantApplication.dll
+D:\Projects for C#\Restaurant\RestaurantApplication\RestaurantApplication\obj\Debug\net6.0-windows\RestaurantApplication.pdb
+D:\Projects for C#\Restaurant\RestaurantApplication\RestaurantApplication\obj\Debug\net6.0-windows\RestaurantApplication.genruntimeconfig.cache
+D:\Projects for C#\Restaurant\RestaurantApplication\RestaurantApplication\obj\Debug\net6.0-windows\ref\RestaurantApplication.dll
+D:\Projects for C#\Restaurant\RestaurantApplication\RestaurantApplication\obj\Debug\net6.0-windows\RestaurantApplication.Properties.Resources.resources
