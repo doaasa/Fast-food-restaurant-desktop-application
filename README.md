@@ -1,5 +1,6 @@
 # Fast Food Restaurant Desktop Application
 ### This is a basic desktop application built with C# .NET that allows users to create, print, and reset receipts for a fast food restaurant.
+<img src="https://github.com/doaasa/Fast-food-restaurant-desktop-application/blob/main/Photos/main%20page.png" width=100%> 
 
 <br>
 <br>
@@ -22,7 +23,6 @@
 <div>
 
 ### The main page which preview all the items in the restaurant and using the checkbox that is beside each item to make the count text box available to add the item to the receipt.  
-<img src="https://github.com/doaasa/Fast-food-restaurant-desktop-application/blob/main/Photos/main%20page.png" width=100%> 
 <img src="https://github.com/doaasa/Fast-food-restaurant-desktop-application/blob/main/Photos/CheckBoxes.png" width=100%> 
 
   
