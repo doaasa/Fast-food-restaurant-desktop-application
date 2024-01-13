@@ -35,8 +35,7 @@
 
 </div>
 
-![Watch the Video]
-
+# Watch the Video
 https://github.com/doaasa/Fast-food-restaurant-desktop-application/assets/76880107/e0d37878-e45b-418c-be55-035c769cc09a
 
 
